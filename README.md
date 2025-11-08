@@ -1,4 +1,4 @@
-# Flask Todo App
+# PlanStack App
 
 A beautiful and modern todo application built with Python Flask, featuring a responsive design and full CRUD functionality.
 
